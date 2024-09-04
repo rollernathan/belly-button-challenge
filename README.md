@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly Button Challenge
 Module 14 Challenge
 
 This project contained three parts. The first part was to create a bar chart to display the top 10 operational taxonomic units (OTUs) found in a specific individual test subject's navel (belly button). The second part was to create a bubble chart showing the number of bacteria for each OTU found in a specific individual test subject's navel. The third part was to display the metadata information for the selected individual test subject being shown in the charts.
@@ -47,4 +47,4 @@ An example of the demographic information is shown below for Test Subject 956.
 
 
 ### Sources
-Data for the Belly Button Analysis provided by Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [NC State The Public Science Lab](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links)
+Data for the Belly Button Challenge provided by Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [NC State The Public Science Lab](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links)
